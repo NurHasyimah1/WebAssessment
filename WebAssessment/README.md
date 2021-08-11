@@ -3,7 +3,7 @@
 Questions: (Put in the readme file)
 
 What did you like about this project?
-It is very challeging and honestly, it kind of make me feel that this is not for me although
+I have tried my best but is very challeging and honestly, it kind of make me feel that this is not for me although
 initially I was ok.
 
 What did you struggle with in this project?
